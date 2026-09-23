@@ -11,7 +11,7 @@
 | **Email** | Binaya.bhandari@cqumail.com |
 | **Unit** | COIT20252: Business Process Management |
 | **Tutor** | Shakir Karim |
-| **Topic** | Robotic Process Automation and Process Cybersecurity |
+
 
 ---
 
