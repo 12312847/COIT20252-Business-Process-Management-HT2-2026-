@@ -63,7 +63,8 @@ My earlier portfolios analysed and modelled my assignment submission process. Th
 
 **Summary:** This new diagram builds on my earlier submission model by placing a proposed automated file and link check between preparation and human review. A failed check returns the item for correction. The final academic assessment and Moodle upload remain student actions; the diagram also shows limits on the check's access (CQUniversity 2026, pp. 19, 24–28).
 
-**Reflection and justification:** 
+**Reflection and justification:** I selected this artefact to show what changed in my thinking after studying RPA and cybersecurity. The earlier model mapped the steps; this proposal identifies a task that might be automated, an exception route and access controls. It is a design proposal, not evidence that I built a bot or saved time. I would first test broken links, missing files and outdated versions, then compare results with my manual checks.
+
 ## References
 
 CQUniversity 2026, *COIT20252 Business Process Management: Week 8 Process Technologies, Robotic Process Automation and Process Cybersecurity*, lecture slides, CQUniversity.
