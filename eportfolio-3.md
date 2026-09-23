@@ -72,5 +72,5 @@ CQUniversity 2026, *COIT20252 Business Process Management: Week 8 Process Techno
 Doan, L 2025, *Managing Risks in RPA Projects: A Case Study Approach*, master’s thesis, Åbo Akademi University, viewed 23 September 2026, <https://www.doria.fi/handle/10024/192759>.
 
 ## AI use statement
-
 Generative AI helped research and organise artefacts, prepare illustrations and draft text. Figure 4 is a conceptual proposal, not an implemented bot. I will verify sources and revise the reflections in my own words before submission.
+
